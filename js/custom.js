@@ -1,0 +1,15 @@
+$(".section_serial_group4").click(function(){
+    $(".myholiday_form").toggleClass("section_serial_group4_active");
+});
+$(".section_serial_group5").click(function(){
+    $(".myholiday_form").toggleClass("section_serial_group5_active");
+});
+$(".section_serial_group6").click(function(){
+    $(".myholiday_form").toggleClass("section_serial_group6_active");
+});
+$(".section_serial_group7").click(function(){
+    $(".myholiday_form").toggleClass("section_serial_group7_active");
+});
+$(".section_serial_group8").click(function(){
+    $(".myholiday_form").toggleClass("section_serial_group8_active");
+});

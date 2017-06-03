@@ -1,0 +1,147 @@
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+.myholiday_form {
+    margin-left: 30px;
+}
+.myholiday_form_area6 label {
+    font-size: 14px;
+}
+}
+@media only screen and (max-width: 991px), only screen and (max-device-width: 991px) {
+.groups5_listform input {
+    min-width:50px;
+}
+.myholiday_form_area6 .nav-tabs {
+    padding: 0px 20px;
+    padding-bottom: 50px;
+}
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+.calander_popup {
+    width: 100%;
+    max-width: 400px;
+	right:0px;
+}
+.calander_popup td{
+	display:block;
+	width:100%;
+}
+.itinerary_item1 {
+    padding-left: 10px;
+}
+.gender_option label {
+	padding:0px;
+	text-align:center;
+	font-size:13px;
+	min-height:25px;
+}
+.myholiday_form_groups5_headding h4 {
+    font-size: 16px;
+}
+.myholiday_form_area6 label {
+    font-size: 13px;
+}
+}
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+.area3_items p {
+    margin-top:0px;
+}
+}
+@media only screen and (max-width: 660px), only screen and (max-device-width: 660px) {
+.area6_item3 .media-body, .area6_item3 .media-left, .area6_item3 .media-right {
+    display: block;
+	width:100%;
+	float:none;
+	padding-bottom:15px;
+}
+}
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+
+.myholiday_form{
+	padding-left:30px;
+}
+.section_serial {
+    width: 40px;
+    height: 40px;
+    left: -51px;
+    font-size: 12px;
+    line-height: 40px;
+}
+.section_serial span{
+    font-size: 14px;
+}
+.left_tic1, .left_tic2, .left_tic3, .left_tic4, .left_tic5 {
+	left:-63px;
+}
+.myholiday_form_area2 .left_tic3, .myholiday_form_area2 .left_tic4{
+	left:-63px;
+}
+.section_serial_little1, .section_serial_little2, .section_serial_little3, .section_serial_little4, .section_serial_little5{
+	left: -47px;
+}
+.myholiday_form_area4 .area3_items {
+    padding: 20px 0px 40px;
+}
+.area3_items {
+    padding: 20px 10px 40px;
+}
+.myholiday_form_groups3 .form-group {
+    padding-left:0px;
+	text-align:left;
+}
+.area5_items {
+    background: #d1e8e6;
+    padding: 20px 10px;
+}
+.area6_item4_buttons button {
+    width: 80%;
+    font-size: 20px;
+    margin:10px;
+}
+.media-body, .media-left, .media-right {
+    display: block;
+	width:100%;
+	float:none;
+	padding-bottom:15px;
+	text-align:center;
+	padding-left:0;
+}
+.media-body img, .media-left img, .media-right img{
+    display: inline-block;
+}
+.myholiday_form_area6 .nav-tabs {
+    padding:0px;
+}
+.myholiday_form_area6 .nav-tabs li a{
+	padding:5px;
+	font-size:12px;
+}
+.myholiday_form_groups4_item1 .form-group, .myholiday_form_groups4_item1 input{
+    width: 100%;
+}
+.gender_option label {
+    width: 100%;
+    padding-left: 30px;
+	text-align:left;
+}
+.gender_option{
+	text-align:left;
+}
+.myholiday_form_groups4 {
+	text-align:center;
+}
+.myholiday_form_area2 .left_tic3, .myholiday_form_area2 .left_tic4 {
+    left: -50px;
+}
+}
+@media only screen and (max-width: 360px), only screen and (max-device-width: 360px) {
+.itinerary_item1 {
+    padding-left:0px;
+	border:none;
+}
+.myholiday_form_groups4_item1, .myholiday_form_groups4_item2{
+    padding: 0px 15px;
+}
+.identification, .identification, .area3_item3_input{
+    padding-left:0px;
+}
+}
